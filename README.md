@@ -24,3 +24,5 @@
 `git branch` use this command to find out what branch you are looking at. it will print out the name of the branch you are looking at. it will have a * on it.
 
 `git checkout <name of branch>` use this command to check out branch.
+
+status > add > commit > push 

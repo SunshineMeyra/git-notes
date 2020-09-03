@@ -1,4 +1,8 @@
-## notes:
+
+| COMMANDS | DETAILS |
+| -------------- | ---------- |
+| `~/` | navigate you to your home directory |
+
 
 `~/`			navigate you to your home directory
 `ls`			list out everything (Helps to find out where you R)
